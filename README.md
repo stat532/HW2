@@ -4,7 +4,7 @@ Please use D2L to turn in both the PDF output and your R Markdown file.
 ### Q1. (15 pts) 
 Consider the binomial sampling distribution  In classical inference, once you observe data (x), you might write down the 95\% confidence interval for p as
 
-![wald eqn](https://latex.codecogs.com/gif.latex?%5Chat%7Bp%7D%20&plus;/-%201.96%20%5Ctimes%20%5Cfrac%7B%5Chat%7Bp%7D%281-%5Chat%7Bp%7D%29%7D%7BN%7D)
+![wald eqn](https://latex.codecogs.com/gif.latex?%5Chat%7Bp%7D%20%5Cpm%201.96%20%5Csqrt%7B%5Cfrac%7B%5Chat%7Bp%7D%281-%5Chat%7Bp%7D%29%7D%7BN%7D%7D)
 
 where ![phat](https://latex.codecogs.com/gif.latex?%5Chat%7Bp%7D%20%3D%5Cfrac%7Bx%7D%7BN%7D). This follows from the asymptotic normality assumption of the estimator.
 
